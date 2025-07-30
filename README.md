@@ -25,5 +25,7 @@ Junior Programmer/
 2. Click the green 'Code' button and select 'Download ZIP'
 3. Extract the ZIP files
 4. Open Unity Hub
-5. Click 'Add'
-6. Select which project you want to look at (e.g. JPU1 Prototype 1)
+5. Click the dropdown 'Add'
+6. Click 'Add project from disk'
+7. Navigate to where you extracted the zip
+8. Select which project you want to look at (e.g. JPU1 Prototype 1)
