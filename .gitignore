@@ -1,5 +1,5 @@
-# This .gitignore file should be placed at the root of your Unity project directory
-# This actully has been changed to work with a mono repo layout. so place this in your root folder and have your
+# This is a modified gitignore from https://github.com/github/gitignore/blob/main/Unity.gitignore
+# to work with a mono repo layout. so place this in your root folder and have your
 # game folders below, example:
 # Repo Folder
 # - Game 1 Folder
@@ -7,7 +7,7 @@
 # - Game 2 Folder
 # - - Assets etc
 # - gitignore
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+] - README.md etc
 #
 .utmp/
 **/[Ll]ibrary/
