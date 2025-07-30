@@ -16,7 +16,7 @@ Junior Programmer/
 ## Current projects
 
 | Project: | Description: |
-|-|-|
+|:-|:-|
 | JPU1 Prototype 1 | Junior Programmer Unit 1 Prototype 1 for the first section of the pathway focusing on moving a car |
 
 
