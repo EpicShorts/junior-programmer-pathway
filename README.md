@@ -38,4 +38,4 @@ Junior Programmer/
 5. Click the dropdown 'Add'
 6. Click 'Add project from disk'
 7. Navigate to where you extracted the zip
-8. Select which project you want to look at (e.g. JPU1 Prototype 1)
+8. Select which project you want to look at (e.g. Unit 1 Player Control)
