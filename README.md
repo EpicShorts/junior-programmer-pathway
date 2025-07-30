@@ -14,7 +14,11 @@ Junior Programmer/
 ```
 
 ## Current projects
-JPU1 Prototype 1 - is the Junior Programmer Unit 1 Prototype 1
+
+| Project: | Description: |
+|-|-|
+| JPU1 Prototype 1 | Junior Programmer Unit 1 Prototype 1 for the first section of the pathway focusing on moving a car |
+
 
 ## How to open the projects and gander around 
 1. Install Unity Hub and Unity 6
