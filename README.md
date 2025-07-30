@@ -8,7 +8,9 @@ Each game/unit has its own subfolder to reflect the different parts of the unity
 Junior Programmer/
 ├── JPU1 Prototype 1/
 |  ├── Assets/
-|  └── Packages/
+|  ├── Packages/
+|  ├── ProjectSettings/
+|  └── .vsconfig
 ├── .gitignore
 └── README.md
 ```
