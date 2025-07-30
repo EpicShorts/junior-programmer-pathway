@@ -5,9 +5,9 @@ Each game/unit has its own subfolder to reflect the different parts of the unity
 
 # Folder Structure:
 Junior Programmer/
-- JPU1 Prototype 1/
-- .gitignore
-- README.md
+│  ├──JPU1 Prototype 1/
+│  .gitignore
+└──README.md
 
 # Current projects
 JPU1 Prototype 1 - is the Junior Programmer Unit 1 Prototype 1
