@@ -6,11 +6,15 @@ Each game/unit has its own subfolder to reflect the different parts of the unity
 ## Folder Structure:
 ```
 Junior Programmer/
-├── JPU1 Prototype 1/
+├── Unit 1 Player Control/
 |  ├── Assets/
 |  ├── Packages/
 |  ├── ProjectSettings/
 |  └── .vsconfig
+├── Unit 2 Basic Gameplay/
+├── Unit 3 Sound and Effects/
+├── Unit 4 Gameplay Mechanics/
+├── Unit 5 User Interface/
 ├── .gitignore
 └── README.md
 ```
@@ -19,7 +23,11 @@ Junior Programmer/
 
 | Project: | Description: |
 |:-|:-|
-| JPU1 Prototype 1 | Junior Programmer Unit 1 Prototype 1 for the first section of the pathway focusing on moving a car |
+| Unit 1 Player Control | Junior Programmer Unit 1 Prototype 1 for the first section of the pathway focusing on moving a car |
+| Unit 2 Basic Gameplay | |
+| Unit 3 Sound and Effects | | 
+| Unit 4 Gameplay Mechanics | | 
+| Unit 5 User Interface | |
 
 
 ## How to open the projects and gander around 
@@ -30,4 +38,4 @@ Junior Programmer/
 5. Click the dropdown 'Add'
 6. Click 'Add project from disk'
 7. Navigate to where you extracted the zip
-8. Select which project you want to look at (e.g. JPU1 Prototype 1)
+8. Select which project you want to look at (e.g. Unit 1 Player Control)
